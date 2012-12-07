@@ -1,6 +1,6 @@
-= The Owasp ESAPI Ruby project
+# The Owasp ESAPI Ruby project
 
-== Introduction
+## Introduction
 
 The Owasp ESAPI Ruby is a port for outstanding release quality Owasp ESAPI
 project to the Ruby programming language. 
